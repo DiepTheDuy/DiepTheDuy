@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ted</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ted<img src="https://user-images.githubusercontent.com/65726460/142777112-1024f31b-56f6-4ef5-9e4f-7d93444bbe4f.gif" width="30px"></h1>
 <h3 align="center">I'm a VietNamese Developer.</h3>
 
 ## 🙋‍♂️ About Me
